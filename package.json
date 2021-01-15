@@ -1,0 +1,22 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "A small program to display all possible letter combinations of a user's input",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gjunkie/anagram.git"
+  },
+  "keywords": [
+    "anagram"
+  ],
+  "author": "Freddie Carthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gjunkie/anagram/issues"
+  },
+  "homepage": "https://github.com/gjunkie/anagram#readme"
+}
