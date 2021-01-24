@@ -2,6 +2,8 @@
 
 A simple anagram game built with Nodejs. This was written in an attempt to create the game in less than 100 lines of JavaScript.
 
+![Anagram](https://github.com/gjunkie/anagram/blob/main/images/anagram.png)
+
 ## Rules
 * A random word will be shuffled. Use the letters to guess other words.
 * For each letter in a correct guess you get 1 point.
