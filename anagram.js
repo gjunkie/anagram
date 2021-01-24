@@ -1,7 +1,6 @@
 const https = require('https')
 const http = require('http')
 const readline = require('readline').createInterface({ input: process.stdin, output: process.stdout })
-const yourAnswers = [];
 let originalWord = '', shuffledWord = '', anagrams, score = 0;
 const printRules = () => {
   console.log('\nStarting a new game! While we grab a random word for you please read the rules...\n')
